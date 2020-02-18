@@ -1,0 +1,21 @@
+body{
+    margin: auto;
+    width: 50%;
+    max-width: 1024px;
+}
+img{
+    width: 410px;
+    height: 350px;
+    margin-left:40px;
+}
+Header{
+    font-size: 20px;
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 10px;
+    
+}
+.line{
+    height: 2px;
+    background: grey;
+}
